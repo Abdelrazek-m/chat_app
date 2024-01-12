@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "666761062366",
+    "project_id": "cahtapp1-2d28b",
+    "storage_bucket": "cahtapp1-2d28b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:666761062366:android:d6b9f4d504774d9ab21f4f",
+        "android_client_info": {
+          "package_name": "com.example.chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "666761062366-2o841jdacv18el0aejobis739q4s4m0f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKCp2Q7QQ3mFjV38BlEKQIU3qRSG909AM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "666761062366-2o841jdacv18el0aejobis739q4s4m0f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:666761062366:android:33e28165bd80dfe2b21f4f",
+        "android_client_info": {
+          "package_name": "com.taher.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "666761062366-2o841jdacv18el0aejobis739q4s4m0f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKCp2Q7QQ3mFjV38BlEKQIU3qRSG909AM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "666761062366-2o841jdacv18el0aejobis739q4s4m0f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
